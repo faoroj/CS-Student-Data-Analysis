@@ -20,6 +20,10 @@ Additionally, once I dug into specific data on preferred programming languages, 
 
 Overall, 77% of the respondents of the survey identified as women, which is likely a bit skewed from reality. Looking at the breakdown of the respondents within data jobs was also skewed compared to reality. Rather than reporting the percentages, looking at trends, Data Analysts had the highest percentage of respondents who identified as women, and Data Scientists had the lowest percentage of women.
 
+## Geographical Trends:
+
+Overall, 77% of the respondents of the survey identified as women, which is likely a bit skewed from reality. Looking at the breakdown of the respondents within data jobs was also skewed compared to reality. Rather than reporting the percentages, looking at trends, Data Analysts had the highest percentage of respondents who identified as women, and Data Scientists had the lowest percentage of women.
+
 ## Key Insights:
 
 * Data jobs pay more than average
