@@ -17,3 +17,6 @@ There are many other sources of salary information out there, I highly recommend
 -<b>45% had a PhD (2% had a JD or MD or similar)<b>
 -<b>27% had a masters<b>
 -<b>27% had a bachelors<b>
+1. **Which author profited the most overall?**
+2. **Is there a relationship between the length of an audiobook and its price?**
+3. **How has revenue changed over time for the highest profiting authors such as JK Rowling?**
