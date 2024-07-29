@@ -1,8 +1,9 @@
-
 Some of the questions I wanted to answer:
 
-What were the average salaries of the most common data-related jobs?
-How does the data industry compare to other jobs overall?
+* What were the average salaries of the most common data-related jobs?
+* How does the data industry compare to other jobs overall?
+
+There were 16,888 submissions at the time of my download. After doing minimal data cleaning (convert to lowercase, remove any leading or trailing spaces, and replace “sr” and “sr.” with “senior), there were 8,739 unique job titles.
 
 ## Data Biases:
 
