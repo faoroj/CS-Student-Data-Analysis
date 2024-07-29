@@ -1,15 +1,20 @@
 ## Key Questions: 
 
-* What were the average salaries of the most common data-related jobs?
-* How does the data industry compare to other jobs overall?
+* What programming languages, databases, webframes, and dev environments are most commonly used by CS students?
+* What programming languages, databases, webframes, and dev environments are most commonly desired by CS students, and is there a similarity with what is already being most commonly used?
+* What is the distribution of education level among developers?
+* Are there significant differences in technical preferences based on the highest level of education?
+* Are there any significant differences in technical preferences based on the country?
+* What are the common trends in the career paths of students who are developers?
+* Does age distribution play a factor in what is currently being desired to be learned?
 
-There were 16,888 submissions at the time of my download. After doing minimal data cleaning (convert to lowercase, remove any leading or trailing spaces, and replace “sr” and “sr.” with “senior), there were 8,739 unique job titles.
+There were 899 submissions at the time of my download. After doing a significant amount of data cleaning (removing wordy entries, removing any leading or trailing spaces, and replacing empty data with null values, and removing hidden carriage values in the entries)
 
 ## Data Biases:
 
 I know the data from this survey is not a perfect representation. It is likely going to be skewed because as you’ll see, men are over 90% of the responses.
 
-Additionally, once I dug into specific data on preferred programming languages, databases, webframes, etc, the number of responses got very small, generally too small to be truly representative.
+Additionally, once I dug into specific data on preferred programming languages, databases, webframes, etc, the number of responses got very small and heavily favoring the United States, generally too small to be truly representative.
 
 
 ## Education:
