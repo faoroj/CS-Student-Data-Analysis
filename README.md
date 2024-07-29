@@ -18,9 +18,11 @@ Additionally, once I dug into specific data on preferred programming languages, 
 
 
 ## Education:
-* **45% had a PhD (2% had a JD or MD or similar)**
-* **27% had a masters**
-* **27% had a bachelors**
+* **49.83% had a bachelor's**
+* **25.03% had a masters**
+* **11.46% had no degree**
+* **3% had a associates**
+* **2.56% had a doctoral**
 
 ## Gender:
 
