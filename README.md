@@ -31,8 +31,15 @@ Additionally, once I dug into specific data on preferred programming languages, 
 
 
 ## Geographical Trends:
+* **United States had 256 entries (28.48%)**
+* **India had 67 entries (7.45%)**
+* **United Kingdom had 60 entries (6.67%)**
+* **Germany had 37 entries (4.12%)**
+* **Canada had 33 entries (3.67%)**
+* **Netherlands had 30 entries (3.34%)**
+* **France had 29 entries (3.23%)**
 
-Overall, 77% of the respondents of the survey identified as women, which is likely a bit skewed from reality. Looking at the breakdown of the respondents within data jobs was also skewed compared to reality. Rather than reporting the percentages, looking at trends, Data Analysts had the highest percentage of respondents who identified as women, and Data Scientists had the lowest percentage of women.
+
 
 ## Key Insights:
 
