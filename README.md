@@ -1,4 +1,4 @@
-Some of the questions I wanted to answer:
+## Key Questions: 
 
 * What were the average salaries of the most common data-related jobs?
 * How does the data industry compare to other jobs overall?
