@@ -4,7 +4,7 @@ Some of the questions I wanted to answer:
 What were the average salaries of the most common data-related jobs?
 How does the data industry compare to other jobs overall?
 
-Data Biases
+## Data Biases:
 
 I know the data from this survey is not a perfect representation. It is likely going to be skewed because as you’ll see, men are over 90% of the responses.
 
