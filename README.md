@@ -12,8 +12,8 @@ Additionally, once I dug into the data based on specific job titles and levels, 
 
 There are many other sources of salary information out there, I highly recommend consulting multiple sources if you are trying to do research for salary negotiation.
 
-Data Scientists:
 
+##Data Scientists:
 -<b>45% had a PhD (2% had a JD or MD or similar)<b>
 -<b>27% had a masters<b>
--27% had a bachelors
+-<b>27% had a bachelors<b>
