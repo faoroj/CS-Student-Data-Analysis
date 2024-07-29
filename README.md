@@ -14,6 +14,6 @@ There are many other sources of salary information out there, I highly recommend
 
 Data Scientists:
 
--45% had a PhD (2% had a JD or MD or similar)
--27% had a masters
+-<b>45% had a PhD (2% had a JD or MD or similar)<b>
+-<b>27% had a masters<b>
 -27% had a bachelors
