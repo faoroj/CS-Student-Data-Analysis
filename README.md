@@ -6,13 +6,13 @@
 * Are there significant differences in technical preferences based on the highest level of education?
 * Are there any significant differences in technical preferences based on the country?
 * What are the common trends in the career paths of students who are developers?
-* Does age distribution play a factor in what is currently being desired to be learned?
+* Does age distribution factor in what is desired to be learned?
 
 There were 899 submissions at the time of my download. After doing a significant amount of data cleaning (removing wordy entries, removing any leading or trailing spaces, replacing empty data with null values, and removing hidden carriage values in the entries)
 
 ## Data Biases:
 
-I know the data from this survey is not a perfect representation. It is likely going to be skewed because as you’ll see, men are over 90% of the responses.
+I know the data from this survey is not a perfect representation. It will likely be skewed because as you’ll see, men are over 90% of the responses.
 
 Additionally, once I dug into specific data on preferred programming languages, databases, webframes, etc, the number of responses got very small and heavily favored the United States, generally too small to be truly representative.
 
