@@ -30,7 +30,7 @@ Additionally, once I dug into specific data on preferred programming languages, 
 * **1% identified as a Non-Binary**
 
 
-## Geographical Trends
+## Geographical Trends:
 * **United States had 256 entries (28.48%)**
 * **India had 67 entries (7.45%)**
 * **United Kingdom had 60 entries (6.67%)**
