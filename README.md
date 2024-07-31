@@ -18,7 +18,7 @@ Additionally, once I dug into specific data on preferred programming languages, 
 
 
 ## Education:
-* **49.83% had a bachelor's**
+* **49.83% had a bachelors**
 * **25.03% had a masters**
 * **11.46% had no degree**
 * **3% had a associates**
