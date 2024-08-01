@@ -1,7 +1,7 @@
 ## Key Questions: 
 
 * What programming languages, databases, webframes, and dev environments are most commonly used by CS students?
-* What programming languages, databases, webframes, and dev environments are most commonly desired by CS students, and is there a similarity with what is already being most commonly used?
+* What programming languages, databases, webframes, and dev environments are most commonly desired by CS students, and is there a similarity with what is already most frequently used?
 * What is the distribution of education level among developers?
 * Are there significant differences in technical preferences based on the highest level of education?
 * Are there any significant differences in technical preferences based on the country?
