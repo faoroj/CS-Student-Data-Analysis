@@ -1,4 +1,4 @@
-## Key Questions: 
+## Key Qustions: 
 
 * What programming languages, databases, webframes, and dev environments are most commonly used by CS students?
 * What programming languages, databases, webframes, and dev environments are most commonly desired by CS students, and is there a similarity with what is already most frequently used?
